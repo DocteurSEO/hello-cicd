@@ -31,4 +31,4 @@ script:
 deploy:
   provider: heroku
   api_key: "2887e7ec-089b-4407-be95-8b29e0576894"
-  app: hello-ci2
+  app: hellodocteur
