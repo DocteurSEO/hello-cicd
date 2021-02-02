@@ -3,6 +3,6 @@ version: "3"
 services:
   app:
     environment:
-      DATABASE_URL: postgres://gnudmfoxqjsuft:1c2e2263e8f806a60d3613838ae50ba3ca0fe89b95bcf1757f886a72992ec86e@ec2-46-137-156-205.eu-west-1.compute.amazonaws.com:5432/d69qe5pt2mfip2
+      DATABASE_URL: URL PROD
       NODE_ENV: production
   
